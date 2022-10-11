@@ -1,0 +1,12 @@
+body{
+  width: 400px;
+  margin: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: red;
+  background-color: lightgreen
+}
+
+p{
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
